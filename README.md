@@ -1,1 +1,1 @@
-# CISC_3024_ConvNeXt-V2-on-CIFAR-10-Image-Classification
+# ConvNeXt_V2_on_CIFAR_10_Image_Classification
