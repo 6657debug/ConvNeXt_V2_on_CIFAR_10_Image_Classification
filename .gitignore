@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv_cuda/
+data/
+runs/**/best_model.pt

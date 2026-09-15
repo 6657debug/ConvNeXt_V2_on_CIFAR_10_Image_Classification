@@ -1,0 +1,8 @@
+{
+  "best_epoch": 88,
+  "best_validation_accuracy": 0.8396,
+  "test_loss": 0.6157623973846436,
+  "test_accuracy": 0.8265,
+  "elapsed_seconds": 2806.3132495880127,
+  "parameters": 3389170
+}
