@@ -1,4 +1,4 @@
-# AI Assignment 1 - ConvNeXt V2 on CIFAR-10
+# ConvNeXt_V2_on_CIFAR_10_Image_Classification
 
 Source repository: https://github.com/6657debug/ConvNeXt_V2_on_CIFAR_10_Image_Classification
 
